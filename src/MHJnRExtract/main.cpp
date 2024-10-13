@@ -1,5 +1,7 @@
 #include "MHJNR-XXL.hpp"
 
+typedef struct IUnknown IUnknown;
+
 #include <cstdio>
 #include <ShlObj.h>
 

@@ -1,3 +1,4 @@
 [submodule "cppenv"]
 	path = cppenv
 	url = https://github.com/RobinLe1402/cppenv
+	branch = windows-xp

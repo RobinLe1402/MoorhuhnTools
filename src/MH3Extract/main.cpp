@@ -1,5 +1,7 @@
 #include "MH3_DAT.hpp"
 
+typedef struct IUnknown IUnknown;
+
 #include <cstdio>
 #include <ShlObj.h>
 
